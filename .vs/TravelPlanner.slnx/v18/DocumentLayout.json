@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\skills\\travel-planner\\traveldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\skills\\travel-planner\\traveldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\skills\\travel-planner\\skill.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\skills\\travel-planner\\skill.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\modelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\modelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\travelskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\travelskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|c:\\users\\komal gupta\\source\\repos\\travelplanner\\travelplanner\\traveltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B7C413-110F-DFE8-A09F-39A573C578FE}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\traveltools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\appsettings.json",
+              "RelativeDocumentMoniker": "TravelPlanner\\appsettings.json",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\appsettings.json",
+              "RelativeToolTip": "TravelPlanner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T09:40:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SKILL.md",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Skills\\travel-planner\\SKILL.md",
+              "RelativeDocumentMoniker": "TravelPlanner\\Skills\\travel-planner\\SKILL.md",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Skills\\travel-planner\\SKILL.md",
+              "RelativeToolTip": "TravelPlanner\\Skills\\travel-planner\\SKILL.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-27T20:24:41.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TravelDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Skills\\travel-planner\\TravelDemo.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Skills\\travel-planner\\TravelDemo.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Skills\\travel-planner\\TravelDemo.cs",
+              "RelativeToolTip": "TravelPlanner\\Skills\\travel-planner\\TravelDemo.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA2wKYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:25:36.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\AppConfig.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\AppConfig.cs",
+              "RelativeToolTip": "TravelPlanner\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:51:28.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\ModelFactory.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\ModelFactory.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\ModelFactory.cs",
+              "RelativeToolTip": "TravelPlanner\\ModelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:09:25.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\Program.cs",
+              "RelativeToolTip": "TravelPlanner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:11:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TravelSkills.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\TravelSkills.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\TravelSkills.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\TravelSkills.cs",
+              "RelativeToolTip": "TravelPlanner\\TravelSkills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:19:54.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TravelTools.cs",
+              "DocumentMoniker": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\TravelTools.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\TravelTools.cs",
+              "ToolTip": "C:\\Users\\Komal Gupta\\source\\repos\\TravelPlanner\\TravelPlanner\\TravelTools.cs",
+              "RelativeToolTip": "TravelPlanner\\TravelTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T20:15:16.591Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1699,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
